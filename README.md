@@ -5,9 +5,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <h4 align="left">Olá!! Sou Lurzzo</h4>
 
 ###
